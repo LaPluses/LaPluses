@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi guys, welcome to my github profile 👋
 
 <!--
 **LaPluses/LaPluses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🚀 I’m currently learning Rust, want one exciting prototype with it!
+
+😎 I widely use Typescript and Java during work.
+
+⚡ My first big open source project was Lutece, made with Django, sadly it suck after years because of type lacking and bad design.(;
