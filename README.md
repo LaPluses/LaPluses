@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🚀 I’m currently learning Rust, want one exciting prototype with it⚡!
-
-😎 I widely use Typescript and Java during work.
+🚀🚀🚀🚀🚀 Rust
