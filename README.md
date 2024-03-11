@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🚀🚀🚀🚀🚀 Rust
+花有重开日，人无再少年。
+
+相逢拌酩酊，何必备芳鲜。
