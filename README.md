@@ -13,6 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-花有重开日，人无再少年。
-
-相逢拌酩酊，何必备芳鲜。
+![Snake animation](https://raw.githubusercontent.com/LaPluses/LaPluses/output/github-contribution-grid-snake-dark.svg)
