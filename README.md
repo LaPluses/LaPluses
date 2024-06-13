@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ![Snake animation](https://raw.githubusercontent.com/LaPluses/LaPluses/output/github-contribution-grid-snake-dark.svg)
+
+关山难越，谁悲失路之人
+
+萍水相逢，尽是他乡之客
