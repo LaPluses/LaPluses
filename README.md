@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 ![Snake animation](https://raw.githubusercontent.com/LaPluses/LaPluses/output/github-contribution-grid-snake-dark.svg)
 
-热情（Passion）/ 信念（Belief) / 专注（Focus）
+热情（Passion）/ 信念（Belief）/ 专注（Focus）
